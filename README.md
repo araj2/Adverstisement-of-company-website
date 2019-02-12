@@ -1,4 +1,4 @@
-# Internet-Ad-of-company-website
+# Advertisement-of-company-website
 
 The project analyses the Advertisement dataset of a company website to the probability of the internet user clicking on the advertisement 
 
