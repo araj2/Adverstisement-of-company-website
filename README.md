@@ -4,7 +4,7 @@ The project analyses the Advertisement dataset of a company website to the proba
 
 Since in this project, I am trying to seperate the customer's interaction with the firm on its social media platform, I applied a classifcation algorithm (Logistic Regression) to gather insights from the data. 
 
-The coefficient matrix is
+The coefficient matrix of the model implemented is
 
             precision    recall  f1-score   support
 
